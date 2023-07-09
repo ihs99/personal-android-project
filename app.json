@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "CA2-FinalProject-MobileApps",
+    "slug": "CA2-FinalProject-MobileApps",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "2c2e5ea3-29c4-4960-a6a9-811288845d26"
+      }
+    }
+  }
+}
